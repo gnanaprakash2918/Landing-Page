@@ -21,7 +21,7 @@ a {
 
 .ben-10-logo {
   width: 55px;
-  margin-left: 90px;
+  margin-left: 180px;
 }
 
 .top-section,
@@ -31,10 +31,10 @@ a {
 }
 
 .nav-bar-links {
-  gap: 50px;
+  gap: 100px;
   align-self: center;
   align-items: center;
-  margin-right: 90px;
+  margin-right: 190px;
 }
 
 .top-section {
@@ -63,6 +63,7 @@ a {
   align-content: center;
   flex-wrap: wrap;
   padding: 20px;
+  margin-bottom: 50px;
 }
 
 .top-content .main-text {
