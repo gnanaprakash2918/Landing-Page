@@ -4,6 +4,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  outline: 2px solid red;
 }
 
 body {
@@ -173,4 +174,32 @@ a {
   display: flex;
   font-size: 20px;
   justify-content: flex-end;
+}
+
+.last-container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  height: 200px;
+  padding: 12px;
+}
+
+.signup-section {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.signup-para {
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
+  padding: 5px;
+}
+
+.para-up,
+.para-below {
+  padding: 8px;
+  margin: 0 10px;
 }
