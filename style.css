@@ -116,6 +116,12 @@ a {
   height: 500px;
 }
 
+.sec-2-heading {
+  font-size: 36px;
+  color: #1f2937;
+  font-weight: 800;
+}
+
 .cards {
   display: flex;
   justify-content: center;
