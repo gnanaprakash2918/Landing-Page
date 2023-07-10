@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
 * {
   margin: 0;
   padding: 0;
@@ -6,6 +8,7 @@
 
 body {
   display: flex;
+  font-family: "Roboto", sans-serif;
 }
 
 ul {
@@ -38,6 +41,7 @@ a {
   width: 100%;
   justify-content: center;
   background-color: #1f2937;
+  flex-direction: column;
 }
 
 .nav-bar {
@@ -49,4 +53,10 @@ a {
 .nav-bar a {
   font-size: 18px;
   color: #e5e7eb;
+}
+
+.top-content .left-para {
+  color: #f9faf8;
+  font-size: 48px;
+  font-weight: 800;
 }
