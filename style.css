@@ -48,11 +48,17 @@ a {
   padding: 8px;
   width: 100%;
   justify-content: space-between;
+  margin-bottom: 60px;
 }
 
 .nav-bar a {
   font-size: 18px;
   color: #e5e7eb;
+}
+
+.top-content {
+  display: flex;
+  justify-content: center;
 }
 
 .top-content .left-para {
