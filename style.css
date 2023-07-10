@@ -168,3 +168,9 @@ a {
   font-style: italic;
   color: #1f2937;
 }
+
+.quotes-by {
+  display: flex;
+  font-size: 20px;
+  justify-content: flex-end;
+}
