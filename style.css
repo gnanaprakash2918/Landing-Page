@@ -58,11 +58,17 @@ a {
 
 .top-content {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
+  align-items: center;
 }
 
-.top-content .left-para {
+.top-content .main-text {
   color: #f9faf8;
   font-size: 48px;
   font-weight: 800;
+}
+
+.top-content .sub-text {
+  color: #e5e7eb;
+  font-size: 18px;
 }
