@@ -9,6 +9,7 @@
 body {
   display: flex;
   font-family: "Roboto", sans-serif;
+  flex-direction: column;
 }
 
 ul {
