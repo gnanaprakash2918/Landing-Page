@@ -148,3 +148,23 @@ a {
   border-radius: 8px;
   margin-bottom: 8px;
 }
+
+.quotes-section {
+  background-color: #e5e7eb;
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.quotes-container {
+  width: 70%;
+  padding: 30px;
+}
+
+.quotes-section q {
+  font-size: 25px;
+  font-weight: lighter;
+  font-style: italic;
+  color: #1f2937;
+}
