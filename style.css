@@ -15,3 +15,38 @@ ul {
 a {
   text-decoration: none;
 }
+
+.ben-10-logo {
+  width: 55px;
+  margin-left: 100px;
+}
+
+.top-section,
+.nav-bar,
+.nav-bar-links {
+  display: flex;
+}
+
+.nav-bar-links {
+  gap: 18px;
+  align-self: center;
+  align-items: center;
+  margin-right: 100px;
+}
+
+.top-section {
+  width: 100%;
+  justify-content: center;
+  background-color: #1f2937;
+}
+
+.nav-bar {
+  padding: 8px;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.nav-bar a {
+  font-size: 18px;
+  color: #e5e7eb;
+}
