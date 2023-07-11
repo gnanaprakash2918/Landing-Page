@@ -182,8 +182,8 @@ a {
   flex-direction: column;
   height: 200px;
   padding: 12px;
-  margin: 0 auto;
-  width: 800px;
+  width: 100%;
+  margin-bottom: 30px;
 }
 
 .signup-section {
@@ -193,6 +193,8 @@ a {
   padding: 20px;
   background-color: #3882f6;
   border-radius: 8px;
+  width: 60%;
+  margin: 0 auto;
 }
 
 .signup-para {
@@ -226,4 +228,15 @@ a {
   height: 45px;
   padding: 5px;
   border: 2px solid white;
+  border-radius: 4px;
+}
+
+.footer-section {
+  background-color: #1f2937;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #f9faf8;
+  height: 90px;
 }
